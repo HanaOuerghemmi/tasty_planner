@@ -1,0 +1,1 @@
+/home/hana/HanaDoc/standard/tasty_planner/build/app/intermediates/cxx/RelWithDebInfo/176j141p/obj/x86

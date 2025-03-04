@@ -1,0 +1,76 @@
+{
+
+
+    "@@comment": "Translate Onboarding page",
+    "onboarding_title1": "Bienvenue",
+    "onboarding_subtitle1": "Découvrez des fonctionnalités incroyables adaptées pour vous.",
+    "onboarding_title2": "Restez connecté",
+    "onboarding_subtitle2": "Discutez et interagissez facilement avec vos amis à tout moment.",
+    "onboarding_title3": "Commencez",
+    "onboarding_subtitle3": "Créez un compte et explorez des possibilités infinies.",
+
+
+    "@@comment": "Translations for Home Page",
+    "helloWorld": "Bonjour le monde",
+    "hello": "Bonjour",
+    "search": "Rechercher",
+    "welcome": "Bienvenue",
+    "morning":"Bonjour ☀️",
+    "afternoun":"Bon après-midi ☕",
+    "evening":"Bonsoir 🌙",
+
+    "@@comment": "Écran de planification des repas",
+    "plan_meal_title": "Planifier un repas",
+    "select_meal_categorie": "Sélectionner une catégorie de repas",
+    "breakfast": "Petit-déjeuner",
+    "lunch": "Déjeuner",
+    "dinner": "Dîner",
+    "snack": "Goûter",
+    "special_dinner": "Dîner spécial",
+    "choose_date": "Choisir une date",
+    "meal_title": "Titre du repas",
+    "add_meal_title": "Entrez le titre du repas",
+    "meal_descreption": "Description du repas",
+    "add_meal_descreption": "Entrez une description (facultatif)",
+
+
+    "@@comment": "Translations for Settings Page",
+    "selectLanguageOfYourChoice": "Sélectionnez la langue de votre choix",
+    "delete": "Supprimer",
+    "yes": "Oui",
+    "no": "Non",
+    "home": "Accueil",
+    "settings": "Paramètres",
+    "changeTheme": "Changer le thème",
+
+
+
+    "@@comment" : "categorie list Translations",
+    "all": "📋 Tout",
+    "grocery": "🛒 Épicerie",
+    "meat": "🥩 Viande",
+    "snacks": "🍿 Snacks",
+    "beverages": "🥤 Boissons",
+    "personal_care": "🧴 Soins personnels",
+    "household": "🏠 Ménage",
+    "other": "📦 Autre",
+
+    "@@comment":"order list screen Translate",
+    "order_list":"Liste de commandes",   
+    "no_items": "Aucun article dans",
+    "add_items": "Ajouter un nouvel article",
+    "item_name": "Entrez le nom de l’article",
+    "item_quantity": "Entrez la quantité",
+
+
+    "@@comment": "General",
+    "languageName": "Français",
+    "started":"Commencer",
+    "next":"Suivant",
+    "skip" : "Passer",
+    "version": "Version",
+    "category":"catégorie",
+    "cancel":"Annuler",
+    "save":"Enregistrer"
+
+}

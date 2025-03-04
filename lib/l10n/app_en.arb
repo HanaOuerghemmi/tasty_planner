@@ -1,0 +1,78 @@
+{
+
+    "@@comment": "Translate Onboarding page",
+    "onboarding_title1": "Welcome",
+    "onboarding_subtitle1": "Discover amazing features tailored for you.",
+    "onboarding_title2": "Stay Connected",
+    "onboarding_subtitle2": "Easily chat and interact with your friends anytime.",
+    "onboarding_title3": "Get Started",
+    "onboarding_subtitle3": "Create an account and explore endless possibilities.",
+
+
+
+    "@@comment": "Translations for Home Page",
+    "helloWorld": "Hello World",
+    "hello": "Hello",
+    "search": "Search",
+    "welcome": "Welcome",
+    "morning":"Good Morning ☀️",
+    "afternoun":"Good Afternoon ☕",
+    "evening":"Good Evening 🌙",
+
+    "@@comment": "Translations for Settings Page",
+    "selectLanguageOfYourChoice": "Select language of your choice",
+    "delete": "Delete",
+    "yes": "Yes",
+    "no": "No",
+    "home": "Home",
+    "settings": "Settings",
+    "changeTheme": "Change Theme",
+
+    "@@comment": "Plan a meal screen",
+    "plan_meal_title":"Plan a Meal",
+    "select_meal_categorie":"Select Meal Category",
+    "breakfast":"Breakfast",
+    "lunch":"Lunch",
+    "dinner":"Dinner",
+    "snack":"Snack",
+    "special_dinner":"Special Dinner",
+    "choose_date": "Choose Date",
+    "meal_title": "Meal Title",
+    "add_meal_title": "Enter meal title",
+    "meal_descreption": "Meal Description",
+    "add_meal_descreption": "Enter description (optional)",
+
+
+
+    "@@comment" : "categorie list Translations",
+    "all": "📋 All",
+    "grocery": "🛒 Grocery",
+    "meat": "🥩 Meat",
+    "snacks": "🍿 Snacks",
+    "beverages": "🥤 Beverages",
+    "personal_care": "🧴 Personal Care",
+    "household": "🏠 Household",
+    "other": "📦 Other",
+
+    "@@comment":"order list screen Translate",
+    "order_list":"Order List",
+    "no_items":"No items in",
+    "add_items":"Add New Item",
+    "item_name":"Enter item name",
+    "item_quantity":"Enter quantity",
+
+
+
+
+    "@@comment": "General",
+
+    "languageName": "English",
+    "started":"Get Started",
+    "next":"Next",
+    "skip" : "Skip",
+    "version": "Version",
+    "category":"Category",
+    "cancel":"Cancel",
+
+    "save":"Save"
+}

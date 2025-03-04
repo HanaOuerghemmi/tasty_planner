@@ -1,0 +1,2 @@
+/home/hana/HanaDoc/standard/tasty_planner/android/app/.cxx/RelWithDebInfo/176j141p/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/hana/HanaDoc/standard/tasty_planner/android/app/.cxx/RelWithDebInfo/176j141p/arm64-v8a/CMakeFiles/rebuild_cache.dir
