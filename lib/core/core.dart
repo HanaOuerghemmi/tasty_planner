@@ -2,6 +2,8 @@
 
 export 'constants/app_constants.dart';
 export 'constants/assets_constant.dart';
+//******** error */
+export 'error/error.dart';
 //**********services  */
 
 export 'services/user_language_service.dart';
@@ -22,3 +24,5 @@ export 'utils/onboarding_helper.dart';
 export 'my_app/app_provider.dart';
 export 'my_app/my_app.dart';
 
+///************ models */
+export 'model/meal_category.dart';

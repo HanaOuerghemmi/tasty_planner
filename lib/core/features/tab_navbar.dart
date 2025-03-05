@@ -1,9 +1,9 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
-import 'package:tasty_planner/features/home/home_page.dart';
-import 'package:tasty_planner/features/plan_meal/plan_a_meal_screen.dart';
-import 'package:tasty_planner/features/settings/settings_page.dart';
+import 'package:tasty_planner/features/home/presentation/pages/home_page.dart';
+import 'package:tasty_planner/features/meal_plan/presentation/pages/plan_a_meal_screen.dart';
+import 'package:tasty_planner/features/settings/presentation/pages/settings_page.dart';
 
 
 class TabNavbar extends StatefulWidget {

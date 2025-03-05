@@ -3,7 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 
-import '../../features/home/home_page.dart';
+import '../../features/home/presentation/pages/home_page.dart';
 import '../core.dart';
 
 
