@@ -8,7 +8,7 @@ class DeleteMealUsecase {
 
   DeleteMealUsecase({required this.mealRepository});
 
-   Future<Either<Failure, Unit>> call({MealEntity? mealEntity})  async{
-    return mealRepository.deleteMeals(deletedMeal: mealEntity );
+   Future<Either<Failure, Unit>> call({int? id})  async{
+    return mealRepository.deleteMeals(id: id );
    }
 } 

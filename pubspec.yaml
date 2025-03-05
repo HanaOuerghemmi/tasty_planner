@@ -45,6 +45,7 @@ dependencies:
   equatable: ^2.0.7
   flutter_launcher_icons: ^0.14.3
   dartz: ^0.10.1
+  sqflite: ^2.4.1
 
 flutter_native_splash:
   color: "#ffffff" # Background color

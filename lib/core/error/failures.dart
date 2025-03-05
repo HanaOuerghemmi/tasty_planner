@@ -3,7 +3,6 @@ import 'package:equatable/equatable.dart';
 abstract class Failure extends Equatable {
   final String message;
 
-  // Constructor with an optional message
   const Failure([this.message = 'An unexpected error occurred.']);
 
   @override
@@ -11,7 +10,6 @@ abstract class Failure extends Equatable {
 }
 
 class OfflineFailure extends Failure {
-  // Optional custom message for this failure type
   const OfflineFailure([String message = 'No internet connection.']) : super(message);
 }
 
@@ -21,4 +19,12 @@ class ServerFailure extends Failure {
 
 class EmptyCacheFailure extends Failure {
   const EmptyCacheFailure([String message = 'No data found in cache.']) : super(message);
+}
+
+class DatabaseFailure extends Failure {
+  const DatabaseFailure([String message = 'A database error occurred.']) : super(message);
+}
+
+class UnauthorizedFailure extends Failure {
+  const UnauthorizedFailure([String message = 'Unauthorized access.']) : super(message);
 }
