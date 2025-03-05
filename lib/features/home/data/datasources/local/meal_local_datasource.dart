@@ -7,3 +7,4 @@ abstract class MealLocalDatasource {
   Future<Either<Failure, Unit>> deleteMeal(int id);
   Future<Either<Failure, MealModel>> updateMeal(MealModel meal);
 }
+

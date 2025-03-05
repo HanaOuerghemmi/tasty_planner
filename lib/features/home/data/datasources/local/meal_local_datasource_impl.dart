@@ -32,7 +32,6 @@ class MealLocalDatasourceImpl implements MealLocalDatasource {
         ''');
       },
       onUpgrade: (db, oldVersion, newVersion) {
-        // Handle database migration logic here if needed
       },
     );
   }

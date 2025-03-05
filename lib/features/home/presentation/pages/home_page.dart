@@ -3,7 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart';
 import 'package:tasty_planner/core/core.dart';
 import 'package:tasty_planner/features/home/presentation/widgets/home_appbar.dart';
-import 'package:tasty_planner/features/meal_plan/presentation/pages/plan_a_meal_screen.dart';
+import 'package:tasty_planner/features/home/presentation/pages/meal_plan/plan_a_meal_screen.dart';
 import '../widgets/day_view.dart';
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

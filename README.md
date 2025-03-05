@@ -20,3 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 
 flutter pub run flutter_launcher_icons:main
 flutter pub run flutter_native_splash:create
+
+
+dart run build_runner build --delete-conflicting-outputs
